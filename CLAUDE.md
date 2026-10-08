@@ -11,5 +11,6 @@ Static website for "Drugy Drip", a baggy streetwear clothing brand. Owner/user: 
 - The user asked NOT to add a "40% off" offer section.
 - Logo in use: the user's own `images/logo/source/druggy-drip-original.jpg` (it says "DRUGGY" with two Gs; brand name is "Drugy" with one G, user will fix the logo later). Earlier generated logo options live in `images/logo/` and `tools/logo/`.
 - Preview: `python -m http.server 5501`, then open http://localhost:5501.
+- Repo: https://github.com/abhishekrana0909/drugy-drip (public, `main`). Live (GitHub Pages, main/root): https://abhishekrana0909.github.io/drugy-drip/. Deploy = commit + `git push`. Commits use the GitHub noreply email (the account blocks pushes that expose the private email).
 
 The user talks in Hinglish and is learning Python. Explain steps simply in Hinglish. When giving requirements they like to send all details first and say "START" before anything is built.
